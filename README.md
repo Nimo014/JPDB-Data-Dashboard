@@ -38,14 +38,14 @@
 
 ### Screenshots:
 
-- Login Page
-![Login Page](https://github.com/Nimo014/HR-Admin-Dashboard/blob/main/assets/login%20page.png)
+- Change Token Number Page
+![Index Page](https://github.com/Nimo014/JPDB-Data-Dashboard/blob/main/assets/index.png)
 
 - Home/table Page
-![Registraton Page](https://github.com/Nimo014/HR-Admin-Dashboard/blob/main/assets/registration%20page.png)
+![Home Page](https://github.com/Nimo014/JPDB-Data-Dashboard/blob/main/assets/table.png)
 
 - Form page
-![Forgot Password Page](https://github.com/Nimo014/HR-Admin-Dashboard/blob/main/assets/forgot%20password%20page.png)
+![Form Page](https://github.com/Nimo014/JPDB-Data-Dashboard/blob/main/assets/Form.png)
 
 
 ## Release History
