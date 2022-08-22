@@ -47,8 +47,9 @@
 - Form page
 ![Form Page](https://github.com/Nimo014/JPDB-Data-Dashboard/blob/main/assets/Form.png)
 
-- Demo
-![Demo video]([https://github.com/Nimo014/JPDB-Data-Dashboard/blob/main/assets/Form.png](https://github.com/Nimo014/JPDB-Data-Dashboard/blob/main/assets/JsonPower%20Dashboard%20(online-video-cutter.com).mp4))
+- Demo Video
+- https://user-images.githubusercontent.com/73212864/185839971-ae39cc2a-4969-4027-8a4c-25d736b36c52.mp4
+
 
 
 ## Release History
